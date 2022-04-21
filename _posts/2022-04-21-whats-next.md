@@ -10,8 +10,3 @@ We don’t want to keep watching our friends experience harm and trauma of racis
 All we need is a space. We will handle the rest. Lee was a part of the STARS program with Lindi Rubadiri-Mujugira at Bellevue College (who has since transitioned to UW), so they will be able to connect with faculty already promoting inclusion here. Lee also spent two years as a tutor with the Trio program, working to help educate fellow first gen students in STEM, and has done years of activism for homeless and refugees. Drew works extensively with the MESA Lounge at Seattle College, an existing counterspace with paid facilitators that creates an environment of inclusion that has helped them and continues to help others to thrive. Drew and Lee have communicated with all the student clubs mentioned in the last 6 months, either as individuals or about accessibility issues here at the Paul G. Allen School. Effort has been put forth to ensure our plan was researched, has clearly defined goals and milestones.  Lee is willing and able to produce committed progress reports listing goals quarterly for the next 2 years as we establish this space on campus.  Drew is willing to facilitate the creation of the space.
 
 We ask you to kindly consider giving us this opportunity to improve inclusion and accessibility for students here at the Paul G. Allen School.
-
-{% highlight css %}
-* Do not remove this line (it will not be displayed) 
-{:toc}
-{% endhighlight %}
