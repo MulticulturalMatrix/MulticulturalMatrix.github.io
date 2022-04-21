@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Webjeda Purple
+title: Build inclusive spaces at Paul G. Allen School!
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Webjeda Purple is a minimal theme built on default jekyll theme. It is very light highly customizable. Suitable for minimal blogs.
-url: "http://webjeda.com" # the base hostname & protocol for your site #footer built by link
+  The is a student led initiative to build an inclusive space at the Paul G Allen school to help uplift and protect marginalized students as they progress in their studies, growth, and more.
+url: "https://multiculturalmatrix.github.io" # the base hostname & protocol for your site #footer built by link
 built-by: webjeda #footer button text
 
 
