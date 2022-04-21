@@ -4,4 +4,4 @@ title: Surveys
 permalink: /surveys/
 ---
 
-Student surveys go here.
+No Active surveys at this time! Thank you for your time and support.
