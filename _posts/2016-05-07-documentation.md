@@ -1,78 +1,31 @@
 ---
 layout: post
-title: Documentation
+title: Goals for the Counterspace
 ---
 
 * Do not remove this line (it will not be displayed) 
 {:toc}
 
-# Features
+# Saftey
+There are many known issues with microaggressions on the Paul G. Allen campus, but we recently had a Black student here on campus have the police called to remove them from the building. Pursuant to known data, interactions with police officers place minority individuals at greater risk of physical harm. This increases further due to intersectionality issues such as disabilities that students on campus must navigate. Phone calls like these put the student population in direct physical threat. While the Faculty at Paul G. Allen School is unable to prevent such calls, creating a space where BIPOC students can work that is defined as a safe space can reduce risk of intended violence against these marginalized groups.
 
-## Customizable theme
-The theme can be customized just by changing few variables in **_config.yml** file.
+## IMMEDIATE PRIORITIES
+- Student Safety
+- Food Accessibility
 
-## Lightweight
-Since the theme is based on default Jekyll theme, it is very lightweight. No JavaScript except analytics is used!
+# Accessibility
+We would create a student funded food pantry to provide for students unable to afford food on campus. We would also like to have room for a small number of computers and study tables. This provides computers regardless of income, and a peer group for marginalized students. Often, we learn best by working through content with our peers, this is something that can be difficult or impossible for oppressed students to access: if they are rejected by their peers, they cannot receive valuable peer-based learning.
 
-## Pre-installed features
-Analytics and Disqus are pre-installed in this theme. You can set it up in **_config.yml** file. If left blank, these features will not load!
+## ADDED PRIORITIES
+- Student Club Resources
+- Peer-group Involvement
+- Intersectional Design
+- Paid Leadership + Facilitators
 
+# Club Involvement
+To create a space that is multicultural we want to propose this space may be used by all the student lead multicultural clubs on campus that were introduced in the DEIA Plan: MiT, GEN1, Q++, and Ability. We will coordinate with club leaders to design an inclusive space and provide student accessibility that fosters intersectionality and easily accessed resources. Future student clubs will be able to continue any initiatives such a space may choose to implement as it grows.
 
-# Installation
-Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
-
-## How to delete old **gh-pages** branch?
-After forking the repository, click on **branches**.
-
-![delete gh-pages branch]({{site.baseurl}}/images/delete-github-branch.png)
-
-Delete ``gh-pages`` branch.
-![delete gh-pages branch]({{site.baseurl}}/images/delete-github-branch-2.png)
-
-You have to create a new ``gh-pages`` branch using the master branch. Go back to the forked repository and create ``gh-pages`` branch.
-
-![create gh-pages branch]({{site.baseurl}}/images/create-gh-pages-branch.JPG)
-
-Now, go to settings and check the **Github Pages** section. You should see a URL where the blog is hosted.
-
-This process will host the theme as a **Project Page**. You can also download the files for local development. 
-
-Default theme will look like this
-
-![webjeda purple jekyll theme]({{site.baseurl}}/images/webjeda-purple-jekyll-theme.png){: .border}
-
-This theme is responsive.
-
-![webjeda purple jekyll responsive theme]({{site.baseurl}}/images/webjeda-purple-jekyll-responsive-theme.png){: .border }
-{: .text-center}
-
-
-# Customization
-
-## Theme
-The theme provides a nice header that can be customized by changing colors in the **_config.yml** file. Use [**uiGradients**](http://uigradients.com/){: target="_blank" rel="nofollow"} to generate css gradients.
-
-{% highlight yaml %}
-
-#color scheme
-color-1: '#155799'
-color-2: '#159957'  
-
-{% endhighlight %}
-
-![webjeda sidebar theme]({{site.baseurl}}/images/webjeda-purple-jekyll-theme-2.png){: .border}
-
-Remember, while developing locally, every change you make in **_config.yml** is applied only if you restart ``jekyll serve`` process.
-
-## Font 
-The default font is Source sans serif. It is hardcoded instead of downloading from Google fonts. This speeds up the theme a little bit. You can change this but I recommend not to.
-
-## Logo
-The **webjeda purple** logo is an SVG file. This can be removed and text can be used as the logo. Make these changes in the **header** file.
-
-# Development
-Make changes to the **master** branch and create a pull request. Do not use **gh-pages** branch as it is used to host the theme.
-
-
-# License
-MIT License
+## STUDENT LED
+- Club Presidents build and continue the vision
+- Future opportunities for peer-based tutoring
+- Volunteers provide access and meet student needs
