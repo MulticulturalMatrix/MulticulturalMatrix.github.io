@@ -8,4 +8,8 @@ Please sign our petition to the Paul G. Allen School to make your voice heard! E
 
 [Click here to sign](https://www.change.org/p/build-a-counterspace-in-the-paul-g-allen-school)
 
-Insert a thing that highlights a few bigger names like faculty.
+{% comment %}
+Example of highlighted signatures of high profile individuals
+
+> "Faculty member John Doe Signed this on date"
+{% endcomment %}
