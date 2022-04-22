@@ -7,7 +7,7 @@ permalink: /volunteers/
 ![picture of androgenous light-skinned person in front of cherry blossoms with rainbow colored hair](/images/ljanzen.jpg){:style="float: left; margin: 0 10px 10px 0" height="200px" width="200px";}
 **Lee Janzen | they/them | ljanzen@cs.washington.edu**
 
-> Lee is a Queer, Dis/abled student who transfered to the Allen School Fall 2021. They started this campaign in response to multiple discrimination issues they watched their friends experiance with no response. They hope to use their leadership experiance to help build long-term change at The Allen School.
+> Lee is a Queer, Dis/abled student who transferred to the Allen School Fall 2021. They started this campaign in response to multiple discrimination issues they watched their friends experience with no response. They hope to use their leadership experience to help build long-term change at The Allen School.
 {: style="color:gray; font-size: 80%;"}
 
 
