@@ -6,7 +6,12 @@ permalink: /petition/
 
 Please sign our petition to the Paul G. Allen School to make your voice heard! Every signature counts.
 
-[![button to click to sign the petition](/images/clink.png)](https://www.change.org/p/build-a-counterspace-in-the-paul-g-allen-school){:target="_blank"}
+<a href="https://www.change.org/p/build-a-counterspace-in-the-paul-g-allen-school">
+    <img 
+        src="/images/clink.png" 
+        alt="button to click to sign the petition"
+    >
+</a>
 
 > "Things need to change: care needs to be communicated and delivered." -Christy Westmoreland; Paul G. Allen School Undergraduate
 
