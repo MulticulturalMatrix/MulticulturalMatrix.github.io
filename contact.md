@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 
-We would love to hear from you. Any query, suggestion, or feedback would be great! If you would like to partner with our inititive to build an inclusive space please send us a message!
+We would love to hear from you. Any query, suggestion, or feedback would be great! If you would like to partner with our initiative to build an inclusive space please send us a message!
 
 
 
