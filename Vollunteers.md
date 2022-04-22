@@ -4,7 +4,7 @@ title: Vollunteers
 permalink: /vollunteers/
 ---
 
-![picture of androgenous person in front of cherry blossoms with rainbow colored hair](/images/ljanzen.jpg){:height="36px" width="36px"}
+![picture of androgenous light-skinned person in front of cherry blossoms with rainbow colored hair](/images/ljanzen.jpg){:height="100px" width="100px"}
 ## Lee Janzen 
 
 ### ljanzen@cw.washington.edu 
