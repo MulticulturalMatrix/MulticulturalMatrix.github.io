@@ -10,6 +10,7 @@ permalink: /volunteers/
 > Lee is a Queer, Dis/abled student who transfered to the Allen School Fall 2021. They started this campaign in response to multiple discrimination issues they watched their friends experiance with no response.
 {: style="color:gray; font-size: 80%;"}
 
+
 ![picture of androgenous light-skinned person in front of the Puget Sound with dark brown hair, smiling](/images/kingdrew.jpg){:style="float: left; margin: 0 10px 10px 0" height="200px" width="200px";}
 **Drew King | they/he | kingdrew@cs.washington.edu**
 
