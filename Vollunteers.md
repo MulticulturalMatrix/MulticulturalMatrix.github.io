@@ -5,8 +5,6 @@ permalink: /vollunteers/
 ---
 
 <img src="images/ljanzen.jpg" align="left" width="200px"/>
-some text floating around the image
-
-<br clear="left"/>
-
-A "newline". This text doesn't float anymore, is left-aligned.
+##Lee Janzen
+###ljanzen@cw.washington.edu
+Lee is a Queer, Dis/abled student who transfered to the Allen School Fall 2021. They spend their rare spare time tutoring other students like them, who come from backgrounds where they failed to recieve access to K-12 education growing up.
