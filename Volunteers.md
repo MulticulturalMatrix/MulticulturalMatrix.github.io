@@ -13,5 +13,5 @@ permalink: /volunteers/
 ![kingdrew](/images/kingdrew.jpg){:style="float: left; margin: 0 10px 10px 0" height="200px" width="200px" alt="picture of androgenous light-skinned person in front of the Puget Sound with dark brown hair, smiling";}
 **Drew King | they/he | kingdrew@cw.washington.edu**
 
-> Drew is a 3rd year student at the Paul G Allen School for Computer Science. In their spare time, they volunteer at their community college giving academic workshops and personal statement help.
+> Drew is a 3rd year student at the Paul G Allen School for Computer Science. In their spare time, they volunteer at Seattle CC giving academic workshops and personal statement help in their established Counterspace: MESA Lounge.
 {: style="color:gray; font-size: 80%;"}
