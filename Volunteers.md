@@ -10,7 +10,7 @@ We are looking for support from the greater student body and beyond at Universit
 [![button to click to become a sponsor](/images/button_become-a-sponsor.png)](https://multiculturalmatrix.github.io/sponsorship/)
 {: style="float: center; text-align: center;"}
 
-<h1>Vollenteers</h1>
+<h1>Volunteers</h1>
 
 ![picture of androgenous light-skinned person in front of cherry blossoms with rainbow colored hair](/images/ljanzen.jpg){:style="float: left; margin: 0 10px 10px 0" height="200px" width="200px";}
 **Lee Janzen | they/them | ljanzen@cs.washington.edu**
