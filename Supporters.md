@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Volunteers
-permalink: /volunteers/
+title: Supporters
+permalink: /supporters/
 ---
 <h1>Advocacy Sponsorships</h1>
  
