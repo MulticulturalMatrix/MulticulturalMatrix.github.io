@@ -3,7 +3,7 @@ layout: page
 title: Volunteers
 permalink: /volunteers/
 ---
-#Advocacy Sponserships
+#Advocacy Sponsorships
  
 We are looking for support from the greater student body at University of Washington! If you aren't part of Paul G. Allen but still want to help please ask to become a sponsor:
 
