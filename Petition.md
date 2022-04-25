@@ -13,6 +13,8 @@ Please sign our petition to the Paul G. Allen School to make your voice heard! E
 > "Things need to change: care needs to be communicated and delivered." -Christy Westmoreland; Paul G. Allen School Undergraduate
 
 Other ways you can help:
+{: style="text-align: center;"}
+
 [![button to click to become a sponsor](/images/sponsor.png)](https://multiculturalmatrix.github.io/sponsorship/)
 {: style="float: center; text-align: center;"}
 
