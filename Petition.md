@@ -15,7 +15,7 @@ Please sign our petition to the Paul G. Allen School to make your voice heard! E
 Other ways you can help:
 {: style="text-align: center;"}
 
-[![button to click to become a sponsor](/images/sponsorship.png)](https://multiculturalmatrix.github.io/sponsorship/)
+[![button to click to become a sponsor](/images/button_become-a-sponsor.png)](https://multiculturalmatrix.github.io/sponsorship/)
 {: style="float: center; text-align: center;"}
 
 {% comment %}
