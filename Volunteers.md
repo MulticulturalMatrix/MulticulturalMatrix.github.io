@@ -7,7 +7,7 @@ permalink: /volunteers/
  
 We are looking for support from the greater student body and beyond at University of Washington! If you aren't part of Paul G. Allen but still want to help please ask to become a sponsor:
 
-[![button to click to become a sponsor](/images/sponsorship.png)](https://multiculturalmatrix.github.io/sponsorship/)
+[![button to click to become a sponsor](/images/button_become-a-sponsor.png)](https://multiculturalmatrix.github.io/sponsorship/)
 {: style="float: center; text-align: center;"}
 
 <h1>Vollenteers</h1>
