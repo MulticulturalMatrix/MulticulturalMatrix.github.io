@@ -1,6 +1,6 @@
 ---
 layout: post
-title: sponsership
+title: Sponsorship
 ---
 
 Are you someone who's an Alumni, Falculty, or part of the great University of Washington student body? Do you still want to find a way to support our inititive? Sign up to be a sponsor!
