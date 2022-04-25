@@ -21,5 +21,5 @@ Other ways you can help:
 {% comment %}
 Example of highlighted signatures of high profile individuals
 
-> "Faculty member John Doe Signed this on date"
+> "Faculty member John Doe Signed this on date".
 {% endcomment %}
