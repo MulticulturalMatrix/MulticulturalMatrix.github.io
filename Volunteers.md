@@ -3,6 +3,14 @@ layout: page
 title: Volunteers
 permalink: /volunteers/
 ---
+#Advocacy Sponserships
+ 
+We are looking for support from the greater student body at University of Washington! If you aren't part of Paul G. Allen but still want to help please ask to become a sponsor:
+
+[![button to click to become a sponsor](/images/sponsor.png)](https://multiculturalmatrix.github.io/sponsorship/)
+{: style="float: center; text-align: center;"}
+
+#Vollenteers
 
 ![picture of androgenous light-skinned person in front of cherry blossoms with rainbow colored hair](/images/ljanzen.jpg){:style="float: left; margin: 0 10px 10px 0" height="200px" width="200px";}
 **Lee Janzen | they/them | ljanzen@cs.washington.edu**
